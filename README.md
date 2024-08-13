@@ -53,7 +53,7 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </div>
 
-
+<br>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&size=30&color=CBC0D3&background=1982C400&center=true&lines=%E2%9A%A1%EF%B8%8FStay+awesome!%E2%9A%A1%EF%B8%8F;%E2%9D%A4%EF%B8%8F+Have+a+nice+day+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
