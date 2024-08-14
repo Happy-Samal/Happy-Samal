@@ -1,19 +1,19 @@
+<a href="/404"><img align="center"  src="./photos/githubbg.gif"  width="1100"  height="350" alt="img" /></a>
 
-<img align="center"  src="./photos/githubbg.gif"  width="1100"  height="350" alt="img" />
 
 <br><br>
 
 <div align="center">
-<img src="./photos/name.svg" alt="Typing SVG" /></a>
+<a href="/404"><img src="./photos/name.svg" alt="Typing SVG" /></a>
 </div>
 
 <h3 align="center">I’m a Web Developer passionate about creating dynamic and user-friendly web experiences.</h3>
 
 
 <!-- line -->
-<img src="./photos/line.gif">
+<a href="/404"><img src="./photos/line.gif"></a>
 
-<img  align="right" alt="Coding" height="270" width="300" src="./photos/sit.gif">
+<a href="/404"><img  align="right" alt="Coding" height="270" width="300" src="./photos/sit.gif"></a>
 
 - 👀 I’m interested in **Full Stack Development**
 
@@ -26,7 +26,7 @@
 <br>
 
 <!-- line -->
-<img src="./photos/line.gif">
+<a href="/404"><img src="./photos/line.gif"></a>
 
 <h2 align="left"> 💬 <b>Connect with me:</b></h2>
 <p align="left">  
@@ -39,17 +39,16 @@
 
 <h2 align="left"><b>🎇Languages and Tools</b></h2>
 <div align="left">
-   <img src="./photos/tools.svg" />
+<a href="/404"><img src="./photos/tools.svg" /></a>
 </div> 
 
-<br>
 <!-- line -->
-<img src="./photos/line.gif">
+<a href="/404"><img src="./photos/line.gif"></a>
 
 <br>
 <div align="center">
 
-<img src="./photos/niceday.svg">
+<a href="/404"><img src="./photos/niceday.svg"></a>
 
-<p align="center"> <img src="./photos/wave.svg" alt="wave svg" />
+<p align="center"> <a href="/404"><img src="./photos/wave.svg" alt="wave svg" /></a>
 </p>
