@@ -1,19 +1,19 @@
-<a href="/photo/hello"><img align="center"  src="./photos/githubbg.gif"  width="1100"  height="350" alt="img" /></a>
+<a href="https://github.com/why are you here"><img align="center"  src="./photos/githubbg.gif"  width="1100"  height="350" alt="img" /></a>
 
 
 <br><br>
 
 <div align="center">
-<a href="/photo/hello"><img src="./photos/name.svg" alt="Typing SVG" /></a>
+<a href="https://github.com/why are you here"><img src="./photos/name.svg" alt="Typing SVG" /></a>
 </div>
 
 <h3 align="center">I’m a Web Developer passionate about creating dynamic and user-friendly web experiences.</h3>
 
 
 <!-- line -->
-<a href="/photo/hello"><img src="./photos/line.gif"></a>
+<a href="https://github.com/why are you here"><img src="./photos/line.gif"></a>
 
-<a href="/photo/hello"><img  align="right" alt="Coding" height="270" width="300" src="./photos/sit.gif"></a>
+<a href="https://github.com/why are you here"><img  align="right" alt="Coding" height="270" width="300" src="./photos/sit.gif"></a>
 
 - 👀 I’m interested in **Full Stack Development**
 
@@ -26,7 +26,7 @@
 <br>
 
 <!-- line -->
-<a href="/photo/hello"><img src="./photos/line.gif"></a>
+<a href="https://github.com/why are you here"><img src="./photos/line.gif"></a>
 
 <h2 align="left"> 💬 <b>Connect with me:</b></h2>
 <p align="left">  
@@ -39,16 +39,16 @@
 
 <h2 align="left"><b>🎇Languages and Tools</b></h2>
 <div align="left">
-<a href="/photo/hello"><img src="./photos/tools.svg" /></a>
+<a href="https://github.com/why are you here"><img src="./photos/tools.svg" /></a>
 </div> 
 
 <!-- line -->
-<a href="/photo/hello"><img src="./photos/line.gif"></a>
+<a href="https://github.com/why are you here"><img src="./photos/line.gif"></a>
 
 <br>
 <div align="center">
 
-<a href="/photo/hello"><img src="./photos/niceday.svg"></a>
+<a href="https://github.com/why are you here"><img src="./photos/niceday.svg"></a>
 
-<p align="center"> <a href="/photo/hello"><img src="./photos/wave.svg" alt="wave svg" /></a>
+<p align="center"> <a href="https://github.com/why are you here"><img src="./photos/wave.svg" alt="wave svg" /></a>
 </p>
