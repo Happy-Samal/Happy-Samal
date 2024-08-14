@@ -1,4 +1,4 @@
-<a href="https://github.com/why are you here"><img align="center"  src="./photos/githubbg.gif"  width="1100"  height="350" alt="img" /></a>
+<a href="/"><img align="center"  src="./photos/githubbg.gif"  width="1100"  height="350" alt="img" /></a>
 
 
 <br><br>
