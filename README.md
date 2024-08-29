@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Reactjs, Nodejs, Mongodb and NextJs**
 
-- 👨‍💻 All of my projects are available [here](https://portfolio-maker.vercel.app/user/happy-samal)
+- 👨‍💻 All of my projects are available [here](https://create-folio.vercel.app/user/rudrasamal007)
 
 - 📫 How to reach me **rudrasamal007@gmail.com**
 
